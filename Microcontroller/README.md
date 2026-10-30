@@ -1,2 +1,1 @@
-Highlighted work covered across Microcontroller I and II
-Content: C/C++ exercises and STM32 application shield work
+This folder contains my Microcontroller Engineering II coursework using embedded C++ and Mbed on an STM32 Nucleo board with an Application Shield. Task 1 implements a joystick-controlled RGB LED using reusable classes, with different colours for directional inputs and a flashing output for the centre button. Task 2 is an incomplete LCD shape-drawing application exploring timer-based potentiometer sampling, joystick interrupts and a finite state machine. It includes cursor positioning and a graphical selection menu, with further work needed to complete and debug the drawing and calculation features.
