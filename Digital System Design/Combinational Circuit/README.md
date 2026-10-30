@@ -1,0 +1,1 @@
+This folder contains my VHDL implementation of a combinational logic circuit for Digital Systems Design II, Lab 1. The design combines logic gates and a multiplexer to produce two outputs from four inputs. The coursework involved translating an assigned circuit diagram into VHDL and determining its truth table.
