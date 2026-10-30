@@ -1,1 +1,1 @@
-Content: 
+This folder contains my Electronic Circuit Design II coursework investigating phase-sensitive demodulation and low-pass filtering. The work involved building and testing an adjustable phase shifter, a switch-based demodulator and an active low-pass filter on a breadboard. Using an oscilloscope and other bench instruments, I measured circuit behaviour, compared the filter’s frequency response with theoretical predictions and investigated how phase difference affects the demodulated DC output.
